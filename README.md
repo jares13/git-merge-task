@@ -45,3 +45,5 @@
 * Прочитать официальную книгу по git: http://git-scm.com/book/ru/v2
 * Пройти игру-квест  https://github.com/hgarc014/git-game
 * Пройти интерактивную игру про работу с ветками http://pcottle.github.io/learnGitBranching/
+
+Попов Евгений
